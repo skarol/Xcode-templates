@@ -1,8 +1,10 @@
 # Xcode-templates
-Repository contains Xcode templates for VIPER classes and protocols
+Repository contains Xcode templates for `B-VIPER` classes and protocols.
+
+`B-VIPER` is modification of `VIPER` architecture that adds `Builder` class to create module. You can find more about it [here](https://github.com/nzaghini/b-viper).
 
 ## How to use
-To use templates copy `VIPER` directory to:
+To use templates copy `B-VIPER` directory to:
 
 ```
 ~/Library/Developer/Xcode/Templates
